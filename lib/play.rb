@@ -36,6 +36,8 @@ def turn(board)
 end
 
 def play
-
-  
+  number_of_turns = 0
+  until number_of_turns == 9
+    
+  end
 end
