@@ -39,5 +39,6 @@ def play
   number_of_turns = 0
   until number_of_turns == 9
     
+    number_of_turns += 1
   end
 end
